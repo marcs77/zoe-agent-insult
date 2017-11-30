@@ -38,4 +38,4 @@ zoe shell. In src/agent.py inside zoe-agent-shell, we can add:
             'locale': locale
         }
   ```
-  - Then ```ìnsult('user','en')``` can be used as a command for the shell.
+  - Then ```insult('user','en')``` can be used as a command for the shell.
